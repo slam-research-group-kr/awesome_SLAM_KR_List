@@ -24,9 +24,13 @@ Thank you all :-).
 - SLAM tutorial  
 [SLAM KR Online SLAM Study](https://www.youtube.com/playlist?list=PLubUquiqNQdOTNocmWCSWk9ZaWhV7ubCD)  
 [SLAM KR Online Autonomous Driving Study ](https://www.youtube.com/playlist?list=PLubUquiqNQdOYYUqJF1YeAcDqFJ0sryUF)  
+[SLAM Video Lectures from Freiburg](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)  
 [Mobile Robotics Lecture from Michigan](http://robots.engin.umich.edu/mobilerobotics/?fbclid=IwAR1NcjOxtgv6ohDPxFkAXIMDn91933IgGSXvav0HpO8lBWwCP0agFkoUS5A#lectures)  
 [Autonomous Mobile Robot from ETH](https://www.edx.org/course/autonomous-mobile-robots-2?fbclid=IwAR04dfIKlPZ1IU39T2TiIOik96vs8Crs5lxWVnAy2nylHZ7jZph0hBtyRZU)  
-[장형기님 자료](https://www.notion.so/SLAM-c007647dafbb41579bc683ea64eef55f)
+[장형기님 자료](https://www.notion.so/SLAM-c007647dafbb41579bc683ea64eef55f)  
+[PythonRobotics](https://github.com/AtsushiSakai/PythonRobotics)
+
+
 
 - SLAM Survey Paper  
 Past, Present, and Future of Simultaneous Localization And Mapping: Towards the Robust-Perception Age.  
@@ -52,11 +56,11 @@ A Critique of Current Developments in Simultaneous Localization and Mapping.
 [SLAM KR Book](https://drive.google.com/drive/folders/11LDCG3B-roaPddIuhKhu0mMzSmWrnCO0?ths=true)    
 
 
-- SLAM Tech Startup
-SLAMCore
-KudanSLAM
-Stryx
-Mobiltech
+- SLAM Tech Startup  
+SLAMCore  
+KudanSLAM  
+Stryx  
+Mobiltech  
 
 
 - Lidar SLAM System  
@@ -75,7 +79,7 @@ LeGO-LOAM
 Cartographer  
 IMLS-SLAM  
 Interactive SLAM  
-LOAM-livox
+LOAM-livox  
 
 > (3) Deep learning with Lidar SLAM  
 >> Feature & Detection:  
@@ -252,5 +256,12 @@ http://irap.kaist.ac.kr/
 [SLAMCore blog](https://blog.slamcore.com/)  
 [GTSAM blog](https://gtsam.org/)
 
+
+- Toy examples  
+Visual slam  
+https://github.com/luigifreda/pyslam  
+https://github.com/avisingh599/mono-vo  
+Lidar slam  
+https://github.com/kissb2/PyICP-SLAM  
 
 
